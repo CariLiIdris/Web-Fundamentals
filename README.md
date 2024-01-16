@@ -1,0 +1,1 @@
+This file was a javascript code challenge I completed. With the help of my coding dojo coherts, some handy youtube videos, a bunch of useful source websites, and some AI guidance, this is how I interprated the project and this is the results. 
